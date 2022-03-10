@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "Platformer test",
-"productVersion": "0.1",
+"companyName": "AccidentalParadox",
+"productName": "ProjectKoboldsTale",
+"productVersion": "0.12",
 "dataUrl": "WebBuild.data.unityweb",
 "wasmCodeUrl": "WebBuild.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebBuild.wasm.framework.unityweb",
